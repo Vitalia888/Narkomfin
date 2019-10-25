@@ -1,0 +1,614 @@
+@import"reset.css";
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans&display=swap');
+
+body{
+  position: relative;
+  width: 100%;
+  height: 10177px;
+
+  background: #FFFFFF;
+
+}
+
+.bluebox1  {
+	position: absolute;
+	width: 1045px;
+	height: 173px;
+	left: 0px;
+	top: 256px;
+
+	background: #7CBDC8;
+}
+
+.purplebox1 {
+
+  position: absolute;
+  width: 288px;
+  height: 703px;
+  left: 1157px;
+  top: 0px;
+
+  background: #8897CF;
+}
+
+.text1 h1 {
+  position: absolute;
+  width: 1033px;
+  height: 235px;
+  left: 36px;
+  top: 194px;
+
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 100px;
+  line-height: 111px;
+}
+
+.text1 h2 {
+  position: absolute;
+  width: 687px;
+  height: 114px;
+  left: 36px;
+  top: 400px;
+
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 64px;
+  line-height: 148px
+}
+
+.text1 h3 {
+  position: absolute;
+  width: 938px;
+  height: 71px;
+  left: 41px;
+  top: 505px;
+
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 48px;
+  line-height: 64px;
+}
+
+.nachalo img {
+  width: 1445px;
+  height: 429px;
+}
+
+.box1 h2 {
+  position: absolute;
+  width: 719.6px;
+  height: 40.21px;
+  left: 66.13px;
+  top: 721px;
+
+  font-family: Open Sans;
+  font-style: italic;
+  font-weight: 600;
+  font-size: 72px;
+  line-height: 0px;
+}
+
+.purple2 {
+  position: absolute;
+  width: 686px;
+  height: 63px;
+  left: -2px;
+  top: 720.04px;
+  background: #8897CF;
+}
+
+.blue2 {
+  position: absolute;
+  width: 988px;
+  height: 322px;
+  left: 2px;
+  top: 991.04px;
+
+  background: rgba(106, 180, 192, 0.88);
+}
+
+.text2 h3 {
+  position: absolute;
+  width: 406px;
+  height: 85px;
+  left: 179px;
+  top: 1377.04px;
+
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 64px;
+  line-height: 148.03%;
+}
+
+.text2 p {
+  position: absolute;
+  width: 759px;
+  height: 384px;
+  left: 186px;
+  top: 1493px;
+
+  font-family: Arial;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 48px;
+  line-height: 134.5%;
+}
+
+.book img {
+  position: absolute;
+  width: 547px;
+  height: 466px;
+  left: 214px;
+  top: 847.04px;
+  z-index: 88;
+}
+
+.symbol1 img {
+  position: absolute;
+  width: 307.3px;
+  height: 262.3px;
+  left: 1050px;
+  top: 1437.04px;
+
+}
+
+.blue3 {
+  position: absolute;
+  width: 743px;
+  height: 63px;
+  left: 704px;
+  top: 2143.04px;
+
+background: #7CBDC8;
+}
+
+.purple3 {
+  position: absolute;
+  width: 811px;
+  height: 509px;
+  left: 540px;
+  top: 2635px;
+
+  background: #8897CF;
+}
+
+.text3 h3{
+	position: absolute;
+	width: 383px;
+	height: 87px;
+	left: 92px;
+	top: 2622.04px;
+
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 64px;
+	line-height: 148.03%;
+}
+
+.text3 p {
+position: absolute;
+width: 656px;
+height: 397px;
+left: 92px;
+top: 2750px;
+
+font-family: Arial;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 134.53%;
+}
+.box2 h2 {
+  position: absolute;
+  width: 550px;
+  height: 48.75px;
+  left: 868.64px;
+  top: 2147.97px;
+
+  font-family: Open Sans;
+  font-style: italic;
+  font-weight: 600;
+  font-size: 72px;
+  line-height: 0px;
+}
+.mesto img {
+position: absolute;
+width: 551px;
+height: 729px;
+left: 799px;
+top: 2296px;
+}
+.symbol2 img {
+  position: absolute;
+  width: 232.83px;
+  height: 251px;
+  left: 116px;
+  top: 2160.04px;
+}
+
+.blue4 {
+  position: absolute;
+  width: 1013px;
+  height: 78px;
+  left: -15px;
+  top: 3398.04px;
+
+  background: #7CBDC8;
+}
+
+.box3 h2 {
+  position: absolute;
+  width: 800px;
+  height: 39px;
+  left: 69px;
+  top: 3406px;
+
+  font-family: Open Sans;
+  font-style: italic;
+  font-weight: 600;
+  font-size: 72px;
+  line-height: 0px;
+}
+
+.blue5 {
+position: absolute;
+width: 490px;
+height: 914px;
+left: 2px;
+top: 3540.04px;
+
+background: #7CBDC8;
+}
+
+.text4 h3 {
+position: absolute;
+width: 301px;
+height: 79px;
+left: 174px;
+top: 4052.04px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 64px;
+line-height: 148.03%;
+}
+.text4 p {
+position: absolute;
+width: 844px;
+height: 289px;
+left: 174px;
+top: 4180.04px;
+
+font-family: Arial;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 134.53%;
+}
+
+.sport {
+position: absolute;
+width: 808px;
+height: 512px;
+left: 2px;
+top: 3540.04px;
+}
+
+.symbol3 {
+position: absolute;
+width: 278.3px;
+height: 240.26px;
+left: 1115px;
+top: 3661.04px;
+}
+
+.purple6 {
+position: absolute;
+width: 447px;
+height: 63px;
+left: 1000px;
+top: 4744.04px;
+
+background: #8897CF;
+}
+.box4 h2 {
+  position: absolute;
+  width: 263px;
+  height: 30px;
+  left: 1095px;
+  top: 4740px;
+
+  font-family: Open Sans;
+  font-style: italic;
+  font-weight: 600;
+  font-size: 72px;
+  line-height: 0px;
+}
+.dream {
+position: absolute;
+width: 677px;
+height: 680px;
+left: 770px;
+top: 4871.04px;
+}
+
+.text5 h3 {
+position: absolute;
+width: 300px;
+height: 79px;
+left: 283px;
+top: 4966.04px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 64px;
+line-height: 148.03%;
+}
+
+.text5 p {
+position: absolute;
+width: 632px;
+height: 458px;
+left: 283px;
+top: 5094.04px;
+
+font-family: Arial;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 134.53%;
+}
+
+.symbol4 {
+position: absolute;
+width: 249px;
+height: 211.75px;
+left: 75px;
+top: 4628.04px;
+}
+
+.purple7 {
+  position: absolute;
+  width: 768px;
+  height: 63px;
+  left: 2px;
+  top: 5833.04px;
+
+  background: #8897CF;
+}
+.purple8 {
+  position: absolute;
+  width: 477px;
+  height: 950px;
+  left: 456px;
+  top: 5955.04px;
+
+  background: #8897CF;
+}
+
+.box5 h2 {
+  position: absolute;
+  width: 486.44px;
+  height: 35.98px;
+  left: 77px;
+  top: 5828.65px;
+
+  font-family: Open Sans;
+  font-style: italic;
+  font-weight: 600;
+  font-size: 72px;
+  line-height: 0px;
+}
+.gadjets {
+  position: absolute;
+  width: 800px;
+  height: 523px;
+  left: 133px;
+  top: 5955.04px;
+}
+
+.text6 h3 {
+  position: absolute;
+  width: 301px;
+  height: 79px;
+  left: 133px;
+  top: 6490.04px;
+
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 64px;
+  line-height: 148.03%;
+}
+.text6 p {
+  position: absolute;
+  width: 821px;
+  height: 260px;
+  left: 133px;
+  top: 6618.04px;
+
+  font-family: Arial;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 48px;
+  line-height: 134.53%;
+}
+.symbol5 {
+  position: absolute;
+  width: 262.8px;
+  height: 293.71px;
+  left: 1005.54px;
+  top: 6246px;
+}
+
+.blue6 {
+  position: absolute;
+  width: 721px;
+  height: 76px;
+  left: 723px;
+  top: 7194px;
+
+  background: #7CBDC8;
+}
+.purple9 {
+  position: absolute;
+  width: 942px;
+  height: 322px;
+  left: 505.35px;
+  top: 7454.04px;
+
+  background: #8897CF;
+}
+
+.box6 h2 {
+  position: absolute;
+  width: 540px;
+  height: 40px;
+  left: 894px;
+  top: 7192.43px;
+
+  font-family: Open Sans;
+  font-style: italic;
+  font-weight: 600;
+  font-size: 72px;
+  line-height: 0px;
+}
+.procrast {
+  position: absolute;
+  width: 775px;
+  height: 440px;
+  left: 588px;
+  top: 7336.04px;
+}
+.text7 h3 {
+  position: absolute;
+  width: 593px;
+  height: 108px;
+  left: 219px;
+  top: 7808.04px;
+
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 64px;
+  line-height: 148px;
+}
+.text7 p {
+  position: absolute;
+  width: 1066px;
+  height: 306px;
+  left: 219px;
+  top: 7976.04px;
+
+  font-family: Arial;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 48px;
+  line-height: 134.53%;
+}
+
+.symbol6 {
+  position: absolute;
+  width: 267.98px;
+  height: 266.99px;
+  left: 35px;
+  top: 7232.97px;
+}
+
+.lastsymbol {
+  position: absolute;
+  width: 333px;
+  height: 94px;
+  left: 527px;
+  top: 8495.04px;
+}
+.lastblue {
+  position: absolute;
+  width: 1150px;
+  height: 104px;
+  left: 2px;
+  top: 8711.04px;
+
+  background: #7CBDC8;
+}
+.lastbox p {
+  position: absolute;
+  width: 857px;
+  height: 258px;
+  left: 120px;
+  top: 8745px;
+
+  font-family: Arial;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 50px;
+  line-height: 134.53%;
+}
+.lastimage {
+  position: absolute;
+  width: 662px;
+  height: 518px;
+  left: 363px;
+  top: 9158.04px;
+}
+.lastpurple {
+  position: absolute;
+  width: 1443px;
+  height: 304px;
+  left: 2px;
+  top: 9873px;
+
+  background: #8897CF;
+}
+
+.yellow1 {
+  position: absolute;
+  width: 455px;
+  height: 641px;
+  left: 990px;
+  top: 1282px;
+}
+.yellow2 {
+  position: absolute;
+  width: 426px;
+  height: 491px;
+  left: 0px;
+  top: 2050px;
+}
+.yellow3 {
+  position: absolute;
+  width: 509px;
+  height: 628px;
+  left: 936px;
+  top: 3482px;
+}
+.yellow4 {
+  position: absolute;
+  width: 393px;
+  height: 427px;
+  left: 2px;
+  top: 4530px;
+}
+.yellow5 {
+  position: absolute;
+  width: 446px;
+  height: 628px;
+  left: 999px;
+  top: 6110px;
+}
+.yellow6 {
+  position: absolute;
+  width: 441px;
+  height: 628px;
+  left: 0px;
+  top: 7012px;
+}
