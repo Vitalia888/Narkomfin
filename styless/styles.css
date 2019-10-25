@@ -128,10 +128,10 @@ body{
 
 .text2 p {
   position: absolute;
-  width: 759px;
-  height: 384px;
+  width: 649px;
+  height: 388px;
   left: 186px;
-  top: 1493px;
+  top: 1495px;
 
   font-family: Arial;
   font-style: normal;
@@ -355,17 +355,17 @@ line-height: 148.03%;
 }
 
 .text5 p {
-position: absolute;
-width: 632px;
-height: 458px;
-left: 283px;
-top: 5094.04px;
+  position: absolute;
+  width: 585px;
+  height: 458px;
+  left: 283px;
+  top: 5094px;
 
-font-family: Arial;
-font-style: normal;
-font-weight: normal;
-font-size: 48px;
-line-height: 134.53%;
+  font-family: Arial;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 48px;
+  line-height: 134.53%;
 }
 
 .symbol4 {
